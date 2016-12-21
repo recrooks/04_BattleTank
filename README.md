@@ -3,3 +3,5 @@ An Unreal 4 2-player (or PVE against a weak AI) tank game with simple capabiliti
 
 ## Stages
 * 01 Initial repository creation
+* 02 GitHub repository linked to SourceTree
+
